@@ -1,0 +1,42 @@
+@media (min-width: 0px) and (max-width: 768px) {
+    #cor_tela1{
+        height: 720px;
+        margin: 100px;
+        padding: 100px;
+        background-color: green;
+    }
+}
+
+@media (min-width: 769px) {
+    #cor_tela1{
+        height: 100px;
+        background-color: green;
+    }
+}
+
+@media (min-width: 769px) {
+    #cor_tela2{
+        height: 100px;
+        background-color: blue;
+    }
+}
+
+
+@media (min-width: 1280px) {
+    #cor_tela3{
+        height: 100px;
+        background-color: gray;
+    }
+
+    #cor_tela4{
+        height: 100px;
+        background-color: green;
+    }
+
+
+    #cor_tela5{
+        height: 100px;  
+        background-color: blue;
+    }
+}
+
